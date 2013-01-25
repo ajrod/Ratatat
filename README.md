@@ -8,7 +8,7 @@ of a Genetic Algorithm was a simple problem of finding a path to some cheese fro
 This demonstration allows you create a maze, 
 place a cheese somewhere in the maze and watch as your rats learn over the generations of evolution.
 
-How it works
+How it works (a brief overview)
 ---------
 Each rat has a genome. This genome is made up of many chromosomes that are in turn made up of individual genes. 
 The encoding for a gene is a single bit and a chromosome consists of two genes (or 2 bits). Therefore each chromosome
@@ -27,11 +27,16 @@ Now that each rat in the population has had a trial in the maze we will call thi
 generation/population of rats will be chosen from this current population. Rats will be chosen randomly
 in such a way that their chance of being selected for the next generation is proportional to their fitness score;
 rats that did good will be more likely to be selected then rats that did poorly. This type of selection
-is called roulette wheel selection. 
+is called roulette wheel selection and it allows for promising solutions to thrive and poor solutions to die.
 
 Now lets say I pick exactly two rats from the population using roullete wheel selection. These rats will mate with
-each other 70% of time. This chance is called the cross over rate. What does mating mean in this context? It means their
-genomes (which is just a string of bits) will get sliced in two pieces from a random pivot and each rat will swap
-one of their pieces. This will produce two new rats, which we will call the off spring of the two original rats 
-selected. After cross over, comes mutation this is a very small chance (ussually around 1%) that 1 or more bits are 
-flipped in the process of cross over.
+each other 70% of time. This chance is called the cross over rate I have chosen it to be 70%. What does mating mean in 
+this context? It means their genomes (which is just a string of bits) will get sliced in two pieces from a random 
+pivot and each rat will swap one of their pieces. This will produce two new rats, which we will call the off spring of 
+the two original rats selected. After cross over, comes mutation this is a very small chance (ussually around 1%) that 1 
+or more bits are flipped in the process of cross over. Pairs of rats are continously selected in this manner until the
+population of the new generation has been reached.
+
+This new generation is now tested in the same way as the original generation and this will go on for as many generations
+as you are willing to wait. Eventually the rats genomes will become fitter and fitter until the population has many
+viable solutions to finding the cheese.
