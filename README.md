@@ -1,9 +1,11 @@
 Ratatat
 =======
 
-This is an expirement that I wrote when I discovered the world of evolutionary algorithms. These are algorithms that
+This is an expirement that I wrote when I discovered the world of 
+[evolutionary algorithms](http://en.wikipedia.org/wiki/Evolutionary_algorithm). These are algorithms that
 solve problems by emulating some aspects of real evolutionary biology. The problem I used to test my understanding
-of a Genetic Algorithm was a simple problem of finding a path to some cheese from a starting point.
+of a [Genetic Algorithm](http://en.wikipedia.org/wiki/Genetic_algorithm) was a simple problem of finding a path to some
+cheese from a starting point.
 
 This demonstration allows you create a maze, 
 place a cheese somewhere in the maze and watch as your rats learn over the generations of evolution.
