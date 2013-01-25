@@ -38,9 +38,12 @@ each other 70% of time. This chance is called the cross over rate I have chosen 
 this context? It means their genomes (which is just a string of bits) will get sliced in two pieces from a random 
 pivot and each rat will swap one of their pieces. This will produce two new rats, which we will call the off spring of 
 the two original rats selected. After cross over, comes mutation this is a very small chance (ussually around 1%) that 1 
-or more bits are flipped in the process of cross over. Pairs of rats are continously selected in this manner until the
-population of the new generation has been reached.
+or more bits are flipped in the process of cross over. Mutation plays an important role in keeping the genomes of a 
+population diverse. Continue to select pairs of rats in this manner until the total population of the new generation has 
+been reached.
 
-This new generation is now tested in the same way as the original generation and this will go on for as many generations
+This new generation is will now be tested in the same way as the original generation and this will go on for as many generations
 as you are willing to wait. Eventually the rats genomes will become fitter and fitter until the population has many
-viable solutions to finding the cheese.
+viable solutions to finding the cheese. 
+
+Note that it can take 100s or 1000s of generations to produce a great solution but this is just the nature of evolution.
