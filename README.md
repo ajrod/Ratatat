@@ -8,6 +8,10 @@ of a Genetic Algorithm was a simple problem of finding a path to some cheese fro
 This demonstration allows you create a maze, 
 place a cheese somewhere in the maze and watch as your rats learn over the generations of evolution.
 
+Ratatat is written in C#. To run the demo, locate the executable at Ratatat/Ratatat/bin/Debug/Ratatat.exe or 
+use Microsoft Visual Studio to open the .sln project.
+
+
 How it works (a brief overview)
 ---------
 Each rat has a genome. This genome is made up of many chromosomes that are in turn made up of individual genes. 
