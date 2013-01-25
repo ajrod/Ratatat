@@ -4,7 +4,8 @@ Ratatat
 This is an expirement that I wrote when I discovered the world of 
 [evolutionary algorithms](http://en.wikipedia.org/wiki/Evolutionary_algorithm) (EAs). These are algorithms that
 solve problems by emulating some aspects of real evolutionary biology. The problem I used to test my understanding 
-was a simple problem of finding a path to some cheese from a starting point. The specific EA used here is a
+was a simple problem of finding a path to some cheese from a starting point (although this approach can be generalized
+to any problem). The specific EA used here is a
 [Genetic Algorithm](http://en.wikipedia.org/wiki/Genetic_algorithm) (GA).
 
 This demonstration allows you create a maze, 
