@@ -1,0 +1,25 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Ratatat\Ratatat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Ratatat\Ratatat\obj\x86\Debug\Ratatat.MainForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Ratatat\Ratatat\obj\x86\Debug\Ratatat.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Ratatat\Ratatat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Ratatat\Ratatat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Ratatat\Ratatat\bin\Debug\Ratatat.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Ratatat\Ratatat\bin\Debug\Ratatat.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Ratatat\Ratatat\obj\x86\Debug\Ratatat.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Ratatat\Ratatat\obj\x86\Debug\Ratatat.pdb
+C:\Users\Arod-Desktop\Documents\Visual Studio 2010\Projects\Ratatat\Ratatat\obj\x86\Debug\Ratatat.exe
+C:\Users\Arod-Desktop\Documents\Visual Studio 2010\Projects\Ratatat\Ratatat\obj\x86\Debug\Ratatat.pdb
+C:\Users\Arod-Desktop\Documents\Visual Studio 2010\Projects\Ratatat\Ratatat\bin\Debug\Ratatat.exe
+C:\Users\Arod-Desktop\Documents\Visual Studio 2010\Projects\Ratatat\Ratatat\bin\Debug\Ratatat.pdb
+C:\Users\Arod-Desktop\Documents\Visual Studio 2010\Projects\Ratatat\Ratatat\obj\x86\Debug\Ratatat.MainForm.resources
+C:\Users\Arod-Desktop\Documents\Visual Studio 2010\Projects\Ratatat\Ratatat\obj\x86\Debug\Ratatat.Properties.Resources.resources
+C:\Users\Arod-Desktop\Documents\Visual Studio 2010\Projects\Ratatat\Ratatat\obj\x86\Debug\Ratatat.csprojResolveAssemblyReference.cache
+C:\Users\Arod-Desktop\Documents\Visual Studio 2010\Projects\Ratatat\Ratatat\obj\x86\Debug\Ratatat.csproj.GenerateResource.Cache
+C:\Users\Arod-Desktop\Desktop\Ratatat\Ratatat\obj\x86\Debug\Ratatat.exe
+C:\Users\Arod-Desktop\Desktop\Ratatat\Ratatat\obj\x86\Debug\Ratatat.pdb
+C:\Users\Arod-Desktop\Desktop\Ratatat\Ratatat\bin\Debug\Ratatat.exe
+C:\Users\Arod-Desktop\Desktop\Ratatat\Ratatat\bin\Debug\Ratatat.pdb
+C:\Users\Arod-Desktop\Desktop\Ratatat\Ratatat\obj\x86\Debug\Ratatat.csprojResolveAssemblyReference.cache
+C:\Users\Arod-Desktop\Desktop\Ratatat\Ratatat\obj\x86\Debug\Ratatat.MainForm.resources
+C:\Users\Arod-Desktop\Desktop\Ratatat\Ratatat\obj\x86\Debug\Ratatat.Properties.Resources.resources
+C:\Users\Arod-Desktop\Desktop\Ratatat\Ratatat\obj\x86\Debug\Ratatat.csproj.GenerateResource.Cache
