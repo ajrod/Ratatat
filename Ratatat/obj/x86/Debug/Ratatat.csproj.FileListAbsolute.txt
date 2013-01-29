@@ -23,3 +23,11 @@ C:\Users\Arod-Desktop\Desktop\Ratatat\Ratatat\obj\x86\Debug\Ratatat.csprojResolv
 C:\Users\Arod-Desktop\Desktop\Ratatat\Ratatat\obj\x86\Debug\Ratatat.MainForm.resources
 C:\Users\Arod-Desktop\Desktop\Ratatat\Ratatat\obj\x86\Debug\Ratatat.Properties.Resources.resources
 C:\Users\Arod-Desktop\Desktop\Ratatat\Ratatat\obj\x86\Debug\Ratatat.csproj.GenerateResource.Cache
+C:\Users\Arod-Desktop\Dropbox\Projects\github\Ratatat\Ratatat\obj\x86\Debug\Ratatat.exe
+C:\Users\Arod-Desktop\Dropbox\Projects\github\Ratatat\Ratatat\obj\x86\Debug\Ratatat.pdb
+C:\Users\Arod-Desktop\Dropbox\Projects\github\Ratatat\Ratatat\bin\Debug\Ratatat.exe
+C:\Users\Arod-Desktop\Dropbox\Projects\github\Ratatat\Ratatat\bin\Debug\Ratatat.pdb
+C:\Users\Arod-Desktop\Dropbox\Projects\github\Ratatat\Ratatat\obj\x86\Debug\Ratatat.csprojResolveAssemblyReference.cache
+C:\Users\Arod-Desktop\Dropbox\Projects\github\Ratatat\Ratatat\obj\x86\Debug\Ratatat.MainForm.resources
+C:\Users\Arod-Desktop\Dropbox\Projects\github\Ratatat\Ratatat\obj\x86\Debug\Ratatat.Properties.Resources.resources
+C:\Users\Arod-Desktop\Dropbox\Projects\github\Ratatat\Ratatat\obj\x86\Debug\Ratatat.csproj.GenerateResource.Cache
